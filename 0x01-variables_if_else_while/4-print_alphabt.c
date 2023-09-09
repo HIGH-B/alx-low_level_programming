@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 /**
- * main: Prints all alphabets except q and e
- * Description:Print alphabet except q and e
+ * main: Prints the alphabets without q and e
+ * 
  * Return: Always 0 (Success)
  */
 int main(void)
