@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 /**
  * main: Prints all alphabets except q and e
  * Description:Print alphabet except q and e
