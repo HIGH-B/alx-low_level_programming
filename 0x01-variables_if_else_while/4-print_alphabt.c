@@ -2,7 +2,7 @@
 /**
  * main: Prints all alphabets except q and e
  * Description:Print alphabet except q and e
- * Return: always 0
+ * Return: Always 0
  */
 int main(void)
 {
