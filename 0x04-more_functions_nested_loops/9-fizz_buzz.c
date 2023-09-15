@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print 1 to 100 with fizzbuss
+ * main - print 1 to 100 with fizzbuzz
  * Return: 0
  */
 int main(void)
@@ -29,5 +29,4 @@ int main(void)
 	printf("\n");
 
 	return (0);
-
 }
