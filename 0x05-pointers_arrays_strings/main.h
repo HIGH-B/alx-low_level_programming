@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-int _putchar(char c);
+int _putchar(int c);
 
 void swap_int(int *a, int *b);
 
