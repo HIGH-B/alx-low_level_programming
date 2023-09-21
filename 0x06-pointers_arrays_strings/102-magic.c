@@ -1,8 +1,4 @@
 #include <stdio.h>
-/**
- * main - adding a line to the code
- * Return: void
- */
 
 int main(void)
 {
@@ -25,4 +21,3 @@ p = &n;
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
-
